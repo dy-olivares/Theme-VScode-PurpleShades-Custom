@@ -1,0 +1,38 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": false,
+    "workbench.colorTheme": "Shades of Purple",
+    "settingsSync.ignoredExtensions": [
+        "redhat.vscode-yaml"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "editor.tabSize": 6,
+    "editor.cursorStyle": "line-thin",
+    "workbench.preferredDarkColorTheme": "Ayu Dark",
+    "workbench.preferredLightColorTheme": "Ayu Light",
+    "workbench.preferredHighContrastLightColorTheme": "Ayu Mirage",
+    "workbench.sash.size": 6,
+    "editor.cursorBlinking": "phase",
+    "editor.fontSize": 17,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.fontFamily": "consolas",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
+    "terminal.integrated.cursorStyle": "line",
+    "window.commandCenter": true,
+    "workbench.iconTheme": "dot",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Special Elite  Italic",
+    "editor.fontWeight": "bold",
+
+
+    "editor.tokenColorCustomizations": {
+        "strings": "#c8ff00",
+        "types": "#f9b4ff",
+        "keywords": "#ffa473",
+        "functions": "#ffbcfe",
+        "comments": "#f1d5ff83"   
+    },
+    "editor.fontLigatures": false
+}
+
